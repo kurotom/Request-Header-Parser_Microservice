@@ -1,5 +1,5 @@
 {
-  "name": "timestamp_microservice",
+  "name": "request_header_parser_microservice",
   "version": "1.0.0",
   "description": "Request Header Parser - proyecto desafío Freecodecamp",
   "main": "index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kurotom/Timestamp_Microservice.git"
+    "url": "git+https://github.com/kurotom/URL_Shortener_Microservice.git"
   },
   "keywords": [
-    "timestamp-backend",
+    "request_header_parser",
     "freecodecamp",
     "node"
   ],
   "author": "kurotom",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kurotom/Timestamp_Microservice/issues"
+    "url": "https://github.com/kurotom/URL_Shortener_Microservice/issues"
   },
-  "homepage": "https://github.com/kurotom/Timestamp_Microservice#readme",
+  "homepage": "https://github.com/kurotom/URL_Shortener_Microservice#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
